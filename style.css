@@ -1,10 +1,12 @@
 body {
     font-family: sans-serif;
+    background-color: #E3CCE3;
   }
   
   header {
-    background-color: #5ccccc;
+    background-color: #c8a2c8;
     padding: 40px 0px 40px 25px;
+
   }
   
   .link-header {
@@ -36,7 +38,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 10 px;
+    margin: 20 px;
+    padding: 10;
   }
   
   h1 {
@@ -48,7 +51,7 @@ body {
   
   nav {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
   }
   
   .container-nav {
